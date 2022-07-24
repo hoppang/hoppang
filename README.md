@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hoppang
 - 👀 I’m interested in Rust, Golang, Elixir/Erlang
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Erlang
 
 <!---
 hoppang/hoppang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
