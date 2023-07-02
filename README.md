@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hoppang
-- 👀 I’m interested in Rust, Golang, Elixir/Erlang
+- 👀 I’m interested in Golang, Elixir/Erlang
 - 🌱 I’m currently learning Erlang
 
 <!---
